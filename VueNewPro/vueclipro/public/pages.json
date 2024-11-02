@@ -1,0 +1,18 @@
+[
+    {
+      "links": { "text": "Home", "url": "home.html" },
+      "pageTitle": "Welcome to TrendyBoutique",
+      "test": "just testing"
+    },
+    {
+      "links": { "text": "New Arrivals", "url": "NewArrivals.html" },
+      "pageTitle": "Here are New Collections for your favorite seasons",
+      "test": "just testing"
+    },
+    {
+      "links": { "text": "Your Trends", "url": "NewTrends.html" },
+      "pageTitle": "Want to stay on trend?",
+      "test": "just testing"
+    }
+  ]
+  
